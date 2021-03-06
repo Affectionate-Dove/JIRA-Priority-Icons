@@ -37,9 +37,9 @@
    inkscape:window-height="705"
    id="namedview11"
    showgrid="false"
-   inkscape:zoom="7.375"
-   inkscape:cx="-17.274769"
-   inkscape:cy="27.693675"
+   inkscape:zoom="5.2149125"
+   inkscape:cx="-12.837499"
+   inkscape:cy="32.795646"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -48,9 +48,11 @@
 
 
 
-<circle
-   style="opacity:1;fill:#000100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.30396032;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-   id="path4532"
-   cx="32"
-   cy="29.499628"
-   r="8.5423727" /></svg>
+<g
+   id="g19"
+   transform="matrix(-0.90680656,-0.90680656,0.90304232,-0.90304232,18.646652,89.703441)"
+   style="fill:#009000;fill-opacity:1"><path
+     id="path8"
+     d="m 14.241,49.556 v 0 c -1.556,-1.556 -1.556,-4.101 0,-5.657 L 29.01,29.13 c 1.556,-1.556 4.101,-1.556 5.657,0 v 0 c 1.556,1.556 1.556,4.101 0,5.657 l -14.77,14.769 c -1.555,1.555 -4.101,1.555 -5.656,0 z"
+     inkscape:connector-curvature="0"
+     style="fill:#009000;fill-opacity:1" /></g></svg>
